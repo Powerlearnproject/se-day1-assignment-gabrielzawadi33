@@ -21,17 +21,39 @@ importance of software ingneering
 5.It ensures Reliability.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
 The Advent of High-Level Programming Languages (1950s-1960s): The introduction of languages like FORTRAN, COBOL, and ALGOL allowed developers to write more complex programs more efficiently, marking a significant step forward from assembly language programming.
 
 The Software Crisis (1960s-1970s): As software projects grew in size and complexity, many projects failed or ran over budget. This period highlighted the need for more structured approaches to software development, leading to the establishment of software engineering as a discipline.
 
 The Emergence of Agile Methodologies (2001): The publication of the Agile Manifesto in 2001 marked a shift away from traditional, linear development models towards more iterative and flexible approaches. Agile has since become one of the most widely adopted methodologies in software development.
 
+
+List and briefly explain the phases of the Software Development Life Cycle.
+
+The Software Development Life Cycle (SDLC) is a process used by software developers to design, develop, test, and deploy software. Here are the main phases:
+ 1. Requirement Analysis
+   - **Purpose:** To gather and analyze the needs and requirements from stakeholders (clients, users, etc.).
+   - **Activities:** Identify what the software should do, define system requirements, and document them in a requirements specification.
+
+ 2. Design
+   - **Purpose:** To create a blueprint or architecture of the software that meets the requirements.
+   - **Activities:** Design the system architecture, database, user interfaces, and system components. This phase often results in design documents and prototypes.
+
+ 3. Implementation (or Coding)
+   - Purpose: To transform the design into a functional software product by writing the actual code.
+   - Activities: Developers write code based on the design specifications. The code is typically divided into smaller, manageable modules.
+
+ 4. Testing
+   - Purpose: To ensure that the software works as intended and is free from defects.
+   - Activities: Conduct various tests (unit, integration, system, acceptance) to identify and fix bugs or issues. Testing ensures that the software meets the quality standards and requirements.
+
+ 5. Deployment
+   - Purpose: To release the software to the end-users or customers.
+   - Activities: Install and configure the software in the production environment. Deployment can be done in stages (e.g., beta testing, full release) depending on the project.
+
+ 6. aintenance
+   - Purpose: To provide ongoing support, updates, and enhancements after the software is deployed.
+   - Activities: Fix any issues that arise, update the software to handle new requirements, and perform routine maintenance to keep the system running smoothly.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
